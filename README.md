@@ -57,8 +57,8 @@ I build **intelligence systems**.
 # 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymous-atharvv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-atharvv&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ I build **intelligence systems**.
 # 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/anonymous-atharvv/anonymous-atharvv/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
