@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=anonymous-atharvv&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ I build **intelligence systems**.
 
 ---
 
-# 🚀 FLAGSHIP BUILDS
+# 🚀 FLAGSHIP SYSTEMS
 
 ## 🧠 AETHER (Universal AI OS)
 
@@ -54,11 +54,15 @@ I build **intelligence systems**.
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GITHUB DASHBOARD
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anonymous-atharvv&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-atharvv&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anonymous-atharvv&theme=tokyonight" />
 </p>
 
 ---
@@ -67,6 +71,19 @@ I build **intelligence systems**.
 
 <p align="center">
   <img src="https://github.com/anonymous-atharvv/anonymous-atharvv/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<p align="center">
+  <a href="https://github.com/anonymous-atharvv/AETHER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous-atharvv&repo=AETHER&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anonymous-atharvv/hospital-ai-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous-atharvv&repo=hospital-ai-system&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -80,7 +97,7 @@ I build **intelligence systems**.
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT
 
 <p align="center">
   <a href="https://instagram.com/atharvvmaurya">
